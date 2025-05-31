@@ -1,3 +1,4 @@
+theme: jekyll-theme-cayman
 # Evaluaci-n-big-data
 Repositorio para la evaluación 2 big data
 # Evaluación Parcial 2 - Big Data
